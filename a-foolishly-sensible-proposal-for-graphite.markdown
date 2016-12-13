@@ -1,6 +1,6 @@
 ---
 title: A Foolishly Sensible Proposal for Graphite
-date: 2016-12-13 11:40:00 -05:00
+date: 2012-05-30 22:33:00 -04:00
 author: Jason Dixon
 ---
 
