@@ -1,6 +1,7 @@
 ---
 title: Contribute to Open Source Monitoring Projects
 date: 2013-04-03 16:40:00 -04:00
+author: Jason Dixon
 ---
 
 You say you want to contribute to an Open Source project, but you're not sure where to start? Have an interest in monitoring, trending or logging software? Hop on over to the Monitorama [Hackathon issues](https://github.com/monitorama/hackathon/issues) list and take a look around. In the weeks leading up to the event we seeded the repo with a bunch of tasks/feature requests/bug reports that are easily digestible over the course of a day or two. These are a great place to get started on a new project, or nail out some quick issues that have an immediate impact.
