@@ -1,6 +1,7 @@
 ---
 title: Business Metrics
-date: 2009-09-16 01:58:00 -04:00
+date: 2009-09-16 02:58:00 -04:00
+author: Jason Dixon
 ---
 
 Somewhere between our first corrupt filesystem and an unlikely ascent to CTO, all Systems Administrators are taught to monitor their systems. We're trained to monitor the health of our computers and trend the usage for capacity planning and analytics. A Nagios is deployed; eventually complemented by Cacti; both of which are inevitably supplanted by *Something Enterprise* (TM). Services are checked, change is managed, and reports are *reportified*.
