@@ -5,8 +5,14 @@ collections:
   authors:
     title: Authors
     output: true
+  interviews:
+    title: Interviews
+    output: true
   posts:
     title: Posts
+    output: true
+  reviews:
+    title: Reviews
     output: true
   uploads:
     title: Uploads
