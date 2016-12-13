@@ -1,6 +1,7 @@
 ---
 title: A Foolishly Sensible Proposal for Graphite
 date: 2016-12-13 11:40:00 -05:00
+author: Jason Dixon
 ---
 
 Let me get one thing out of the way, **I fucking love Graphite**. No other piece of software I've used has returned as much *getting shit done* value for so little personal investment. It's a triumph of function and utility, designed to help users collect metrics, store metrics, and extrapolate from those metrics with as little pain as humanly possible. The criticisms and suggestions I present below are conveyed with the *utmost respect* for all of Graphite's current and past developers, and in particular, Chris Davis and the original team at Orbitz who built and released it as open source. None of the rest of this post should detract from how rewarding it is to work with this tool.
