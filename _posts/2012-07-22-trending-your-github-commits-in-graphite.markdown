@@ -7,7 +7,7 @@ categories:
 tags: ["github", "open source", "graphite", "graph", "trending", "visualization"]
 image:
   feature: github-library-octocat.jpg
-  topPosition: -50px
+  topPosition: -100px
 ---
 
 Today I was browsing the list of service hooks that GitHub provides. I almost forgot that there's a [simple WebHook service](https://help.github.com/articles/post-receive-hooks) that POSTs commit information during the git post-receive hook to any external URL. This got me thinking that it would be nice to trend commit activity inside my Graphite server. Don't get me wrong... GitHub already provides some really nice visualization for project and committer activity on their site. However, as a data junkie, I'd love to be able to correlate this activity with my own application  metrics.

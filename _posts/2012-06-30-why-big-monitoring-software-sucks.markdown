@@ -7,6 +7,7 @@ categories:
 tags: ["devops", "trending", "pagerduty", "pingdom"]
 image:
   feature: big-software-mountain.jpg
+  topPosition: -50px
 ---
 
 There are a *ton* of open-source and commercial monitoring tools available, so why do we claim that ***monitoring sucks***? Certainly there are some usable tools out there; without them our systems would be even more unpredictable and unreliable than they already are. So what makes one tool *sticky* where others get tried and tossed aside?
