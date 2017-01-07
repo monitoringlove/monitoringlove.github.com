@@ -7,7 +7,7 @@ categories:
 tags: ["threshold", "alert", "graph", "trending", "visualization", "devops"]
 image:
   feature: threshold-speed-limit.jpg
-  topPosition: -700px
+  topPosition: -300px
 ---
 
 I've been hearing a lot of chatter from various sources that adaptive fault detection is going to be **The New Shit &trade;** and that static thresholds are virtually useless because they lack context. While I agree that some of the more advanced techniques sound amazing (and make no mistake, I'm really excited about the possibilities here), it's foolish to think that thresholds as a measure of fault conditions are useless.
