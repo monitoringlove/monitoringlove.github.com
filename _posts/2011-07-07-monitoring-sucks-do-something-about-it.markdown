@@ -2,6 +2,11 @@
 title: Monitoring Sucks. Do Something About It.
 date: 2011-07-07 23:45:00 -04:00
 author: Jason Dixon
+excerpt:
+categories:
+tags: ["nagios", "open source", "graphite", "logstash", "graylog2", "pagerduty", "heroku"]
+image:
+  feature: monitoring-sucks.jpg
 ---
 
 For as long as I can remember, systems administrators have bitched about the state of monitoring. Now, depending on who you ask, you might get a half dozen (or more) answers as to what "monitoring" actually means. Monitoring is most commonly used as a casual catch-all term to describe one or more pieces of software that perform host and service monitoring and basic trending (graphs or charts). But in most cases, these complaints are targeted at software responsible for daily fault detection and notifications for IT shops and Web Operations. The usual whipping boy is [Nagios](http://nagios.org/), a popular open-source monitoring project that supports a universe of host and service checks, notifications, escalations and more.
