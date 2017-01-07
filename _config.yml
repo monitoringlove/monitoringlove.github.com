@@ -1,25 +1,28 @@
 ---
 title: Monitoring Love
 timezone: America/New_York
+locale: en_us
+tagline: 'tagline'
+description: 'description'
+baseurl: '/'
+baseurl_posts_img: '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+disqus: monitoringlove
+icon: '/assets/img/icon.png' # [best 300px X 300px]
+
 collections:
   authors:
     title: Authors
     output: true
-  interviews:
-    title: Interviews
-    output: true
-  posts:
-    title: Posts
-    output: true
-  reviews:
-    title: Reviews
-    output: true
   uploads:
     title: Uploads
     output: true
+
 defaults:
 - scope:
-    path: ''
+    path: '_posts'
     type: posts
   values:
     layout: post
